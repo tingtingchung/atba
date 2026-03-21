@@ -8,7 +8,7 @@
 
 Read:  
 Groner Chapters 1-2, Appendices A1, A2, A6, A7, and B  
-Ang Chapters 1-3  
+Ang Chapters 1-2  
 
 **Basic Operations**  
 [Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/zareytvpwjk8us1me3irw/W1-2-Basic-Operations.pptx?rlkey=nxoxlblv1py38cd270bkpoozy&dl=0)  
@@ -16,6 +16,7 @@ Ang Chapters 1-3
 
 Read:  
 Groner Chapter 3  
+Ang Chapter 4  
 
 **Decisions**  
 [Slidedeck: Decisions](https://www.dropbox.com/scl/fi/zg4wg6nqcylirxvcfr74j/W1-3-Decisions.pptx?rlkey=5mhmtvaowu1mrzetj0le3i6p1&dl=0)  
