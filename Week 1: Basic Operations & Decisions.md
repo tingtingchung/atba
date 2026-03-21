@@ -5,7 +5,6 @@
 [Slidedeck: Computational Thinking & Agentic AI](https://www.dropbox.com/scl/fi/rukz1lqaibp2zlnabgzji/W1-1-Computational-Thinking.pptx?rlkey=j8fqu65axjac8bi37p7454i51&dl=0)  
 [Intro to Python in Colab](https://colab.research.google.com/drive/1i3C6B4s9Aaylf2hGHDoEfSnEvIj8DcZZ?usp=drive_link)  
 [Colab & Programming Fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-?usp=sharing)  
-[Agentic AI Systems]  
 
 **Basic Operations**  
 [Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/zareytvpwjk8us1me3irw/W1-2-Basic-Operations.pptx?rlkey=nxoxlblv1py38cd270bkpoozy&dl=0)  
