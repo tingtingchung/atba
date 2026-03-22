@@ -15,4 +15,4 @@ Ang Chapter 9
 [Abhishek Dhanraj](https://www.linkedin.com/in/abhishekdhanraj/)    
 
 Read:  
-Groner Chapter 17  
+Groner Chapter 14  
