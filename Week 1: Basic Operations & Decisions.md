@@ -24,3 +24,4 @@ Ang Chapter 2
 
 Read:  
 Groner Chapter 4  
+Ang Chapter 3  
