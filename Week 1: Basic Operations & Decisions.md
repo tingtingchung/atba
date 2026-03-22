@@ -2,6 +2,7 @@
 
 **Course Intro**  
 [Slidedeck: Course Overview](https://www.dropbox.com/scl/fi/b12pn2qcm2e0pcridzxof/W1-0-ATBA-Course-Overview.pptx?rlkey=qq3f4bmtsz8cjsaf7uzbgu7a4&dl=0)  
+[TP1 instructions](https://github.com/tingtingchung/atba/issues/1)  
 [Slidedeck: Computational Thinking & Agentic AI](https://www.dropbox.com/scl/fi/rukz1lqaibp2zlnabgzji/W1-1-Computational-Thinking.pptx?rlkey=j8fqu65axjac8bi37p7454i51&dl=0)  
 [Intro to Python in Colab](https://colab.research.google.com/drive/1i3C6B4s9Aaylf2hGHDoEfSnEvIj8DcZZ?usp=drive_link)  
 [Colab & Programming Fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-?usp=sharing)  
