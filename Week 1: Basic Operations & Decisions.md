@@ -6,7 +6,7 @@
 [Slidedeck: Computational Thinking & Agentic AI](https://www.dropbox.com/scl/fi/rukz1lqaibp2zlnabgzji/W1-1-Computational-Thinking.pptx?rlkey=j8fqu65axjac8bi37p7454i51&dl=0)  
 [Intro to Python in Colab](https://colab.research.google.com/drive/1i3C6B4s9Aaylf2hGHDoEfSnEvIj8DcZZ?usp=drive_link)  
 [Colab & Programming Fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-?usp=sharing)  
-
+[Agentic AI example: Building LLM Agents with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
 Read:  
 Groner Chapters 1-2, Appendices A1, A2, A6, A7, and B  
 Ang Chapter 1    
