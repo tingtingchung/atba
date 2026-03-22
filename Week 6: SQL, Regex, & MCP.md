@@ -11,5 +11,6 @@ Groner Chapter 18
 
 Read:  
 [Introducing the MCP by Anthropic](https://www.anthropic.com/news/model-context-protocol)  
+[The complete guide to building skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)  
 
-**API vs. MCP**  
+**API vs. MCP vs. skill.md**   
