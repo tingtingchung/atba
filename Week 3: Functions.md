@@ -17,4 +17,5 @@ Ang Chapters 6 & 7
 [Gary Ang](https://www.linkedin.com/in/garyang/)  
 
 Read:  
-Ang Chapters 8 & 9
+Ang Chapters 8
+Groner Chapters 6 & 8
