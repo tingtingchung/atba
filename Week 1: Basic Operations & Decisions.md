@@ -13,7 +13,7 @@ Ang Chapter 1
 
 **Basic Operations**  
 [Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/zareytvpwjk8us1me3irw/W1-2-Basic-Operations.pptx?rlkey=nxoxlblv1py38cd270bkpoozy&dl=0)  
-[W01: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?tab=t.0)  
+[W01: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1Yj3mjvxh8S4iiz7nJb-UrKPc18_DcFFW/view?usp=drive_link) [solution]      
 
 Read:  
 Groner Chapter 3  
@@ -21,7 +21,7 @@ Ang Chapter 2
 
 **Decisions**  
 [Slidedeck: Decisions](https://www.dropbox.com/scl/fi/zg4wg6nqcylirxvcfr74j/W1-3-Decisions.pptx?rlkey=5mhmtvaowu1mrzetj0le3i6p1&dl=0)  
-[W02: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?tab=t.0)  
+[W02: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1-BQuDbsVtQXepAB5nZLkb9IGZq-nxzhc/view?usp=drive_link) [solution]   
 
 Read:  
 Groner Chapter 4  
