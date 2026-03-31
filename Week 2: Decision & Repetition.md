@@ -3,6 +3,7 @@
 **Decisions**  
 [Slidedeck: Decisions](https://www.dropbox.com/scl/fi/zg4wg6nqcylirxvcfr74j/W1-3-Decisions.pptx?rlkey=5mhmtvaowu1mrzetj0le3i6p1&dl=0)  
 [W02: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1-BQuDbsVtQXepAB5nZLkb9IGZq-nxzhc/view?usp=drive_link) [colab](https://colab.research.google.com/drive/1MOZgESm80bsBHO-1J1meo-ZI1zi9imPz?usp=sharing) [solution]   
+
 Read:  
 Groner Chapter 4  
 Ang Chapter 3  
