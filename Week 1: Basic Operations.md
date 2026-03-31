@@ -14,7 +14,7 @@ Ang Chapter 1
 
 **Basic Operations**  
 [Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/zareytvpwjk8us1me3irw/W1-2-Basic-Operations.pptx?rlkey=nxoxlblv1py38cd270bkpoozy&dl=0)  
-[W01: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1Yj3mjvxh8S4iiz7nJb-UrKPc18_DcFFW/view?usp=drive_link) [solution]      
+[W01: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1Yj3mjvxh8S4iiz7nJb-UrKPc18_DcFFW/view?usp=drive_link) [solution](https://docs.google.com/document/d/1C6TgFaq1St1W9iy6oCggbU1h7XS8DBf1zbKDC_qjd_g/edit?usp=drive_link)      
 
 Read:  
 Groner Chapter 3  
