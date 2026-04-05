@@ -14,3 +14,6 @@ Ang Chapter 5
 Read:  
 Ang Chapters 6 - 8  
 Groner Chapters 6 & 8
+
+*Optional References*  
+[Python: The Documentary](https://lwn.net/Articles/1035537/)  
