@@ -1,21 +1,16 @@
-**Week 3**  
-
-**Functions**  
-[W06: Functions](https://docs.google.com/document/d/1HVH59cLXjb-Ld_M7ut0j-bC6ThjsAoIlMozjCGqCW5s/edit?tab=t.0)  
+**Week 3: Functions**  
+[Slidedeck: Functions]  
+[Colab: Agentic AI example with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
+[W06: Functions](https://docs.google.com/document/d/1HVH59cLXjb-Ld_M7ut0j-bC6ThjsAoIlMozjCGqCW5s/edit?tab=t.0) [PDF] [colab] [solution]    
 
 Read:  
 Chapter 7, Appendices F & K
 [Bash & zsh Terminal Basic Cheat Sheet (DataCamp)](https://www.datacamp.com/cheat-sheet/bash-and-zsh-shell-terminal-basics-cheat-sheet)  
 Ang Chapter 5  
 
-**Files, Folders, & CLI Bash Commands**  
-
-Read:  
-Ang Chapters 6 & 7  
-
 **Guest Speaker**  
 [Gary Ang](https://www.linkedin.com/in/garyang/)  
 
 Read:  
-Ang Chapter 8  
+Ang Chapters 6 - 8  
 Groner Chapters 6 & 8
