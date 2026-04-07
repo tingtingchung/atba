@@ -13,7 +13,7 @@ Ang Chapter 3
 
 **Repetition**  
 [Slidedeck: Repetition with For Loops](https://www.dropbox.com/scl/fi/og5sqy6q4v8r652frlv7b/M2A2-Repetition-with-While-Loops.pptx?rlkey=jxky9mxeg44ki9r7c1z5z7wpx&dl=0)  
-[W03: Repetition with For Loops](https://docs.google.com/document/d/1uWVUKiBbIOc2JYD4vdcEZmrzvpIZKw6UiP6uCYEDFbY/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1ou9wifYh4jU43GHONP0x7rhZo38u0US6/view?usp=drive_link) [colab](https://colab.research.google.com/drive/1-RIW5yvsxq2GB7rpzK1tDDMOm15cmVlL?usp=sharing) [solution]  
+[W03: Repetition with For Loops](https://docs.google.com/document/d/1uWVUKiBbIOc2JYD4vdcEZmrzvpIZKw6UiP6uCYEDFbY/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1ou9wifYh4jU43GHONP0x7rhZo38u0US6/view?usp=drive_link) [colab](https://colab.research.google.com/drive/1-RIW5yvsxq2GB7rpzK1tDDMOm15cmVlL?usp=sharing) [solution](https://docs.google.com/document/d/1ObWdlb1uGzeUrWDz5Hgn4ox2_ybLgXSRezYt8hNkR1g/edit?tab=t.0)    
 
 [Slidedeck: Repetition with While Loops](https://www.dropbox.com/scl/fi/og5sqy6q4v8r652frlv7b/M2A2-Repetition-with-While-Loops.pptx?rlkey=jxky9mxeg44ki9r7c1z5z7wpx&dl=0)  
 [W04: Repetition with While Loops](https://docs.google.com/document/d/1PqBxlZotjz7M97SrrPSgpVQcnWzTRoFO-f_fJ9jVOCk/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1B7N9DRS-j_eP7Z3rbFAp1NgSQHteeUPw/view?usp=drive_link) [colab](https://colab.research.google.com/drive/1xc4K-qrqLATaz4bE55SkcMTn8JprekMG?usp=drive_link) [solution] 
