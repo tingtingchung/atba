@@ -1,0 +1,801 @@
+patient_id,patient_name,months_since_cleaning,pending_procedures,balance_usd,years_since_xray,insurance_on_file
+P-101,Ana Ruiz,5,0,0,1.0,Delta Dental
+P-102,Ben Alder,18,3,850,3.0,Cigna
+P-103,Chen Park,10,1,200,2.0,Aetna
+P-104,Dana Okafor,24,0,0,1.5,self-pay
+P-105,Evan Lima,4,0,0,0.5,MetLife
+P-106,Vera Fernandez,5,0,0,1.0,MetLife
+P-107,Svetlana Suzuki,3,0,0,0.5,Guardian
+P-108,Salma Song,7,0,413,1.8,Cigna
+P-109,Elena Kumar,25,0,0,0.6,Cigna
+P-110,Arjun Wahid,6,0,0,1.9,Aetna
+P-111,Fatima Choudhury,4,1,976,3.0,Aetna
+P-112,Lourdes Ikeda,4,1,374,1.7,Delta Dental
+P-113,Hayden Ikeda,5,5,0,0.6,UnitedHealthcare
+P-114,Ayaan Lima,14,0,0,1.1,BlueCross BlueShield
+P-115,Juno Kovacs,11,2,0,0.4,UnitedHealthcare
+P-116,Sadia Meyer,11,2,0,1.2,MetLife
+P-117,Carmen Brennan,19,0,241,1.5,MetLife
+P-118,Pablo Markos,15,1,0,3.9,UnitedHealthcare
+P-119,Lars Fernandez,4,0,1973,0.8,Delta Dental
+P-120,Chloe Nielsen,12,0,0,1.6,UnitedHealthcare
+P-121,Rose Acosta,6,0,1129,0.5,MetLife
+P-122,Brielle Davis,14,0,417,0.9,Humana
+P-123,Elodie Mikkelsen,7,0,0,1.0,Delta Dental
+P-124,Josephine Sethi,35,0,256,0.5,Cigna
+P-125,Suraj Lima,3,0,0,1.1,BlueCross BlueShield
+P-126,Bianca Loh,6,0,0,3.4,Aetna
+P-127,Pedro Silva,3,1,0,1.1,Delta Dental
+P-128,Wen Dubois,5,1,0,0.8,Delta Dental
+P-129,Esme Moon,3,0,306,0.9,MetLife
+P-130,Amara Dinh,22,0,0,0.7,Delta Dental
+P-131,Mariana Adeyemi,23,2,171,1.2,self-pay
+P-132,Sasha Yilmaz,5,0,0,1.2,Cigna
+P-133,Aroha Yamada,7,0,664,2.2,Delta Dental
+P-134,Hanh Shen,7,0,0,1.5,MetLife
+P-135,Rory Omondi,21,1,0,0.4,Guardian
+P-136,Omar Omondi,17,0,0,1.3,MetLife
+P-137,Ravi Mikkelsen,5,2,214,0.7,MetLife
+P-138,Joaquin Ahmed,12,0,0,2.3,Delta Dental
+P-139,Chloe Horvath,7,0,0,1.9,MetLife
+P-140,Ibrahim Cai,6,1,0,0.4,self-pay
+P-141,Elif Truong,6,0,0,3.7,Delta Dental
+P-142,Anh Rizvi,4,0,0,1.1,self-pay
+P-143,Anya Rao,4,1,0,1.9,self-pay
+P-144,Elena Loh,20,2,0,1.5,Humana
+P-145,Yaroslav Marino,3,0,0,0.5,BlueCross BlueShield
+P-146,Leilani O'Connor,14,0,0,0.6,BlueCross BlueShield
+P-147,Jabari Quintero,11,1,194,2.3,self-pay
+P-148,Enzo Mikkelsen,7,0,185,1.2,Delta Dental
+P-149,Sofia Kang,6,0,1602,2.0,UnitedHealthcare
+P-150,Felix Reyes,5,0,0,1.1,MetLife
+P-151,Yara Singh,5,0,0,1.5,UnitedHealthcare
+P-152,Emma Novak,3,0,0,1.7,Cigna
+P-153,Odin Truong,12,0,432,1.7,Cigna
+P-154,Xiu Perez,4,1,0,0.3,Cigna
+P-155,Pedro Cohen,7,0,0,0.5,Guardian
+P-156,Aisha Espinoza,9,0,1560,0.8,BlueCross BlueShield
+P-157,Daniela Vidal,6,1,1719,1.0,Aetna
+P-158,Ravi Tan,12,0,0,3.1,UnitedHealthcare
+P-159,Vera Monroe,12,0,0,0.9,Cigna
+P-160,Kofi Osei,17,0,0,1.8,Delta Dental
+P-161,Mohammed Pavlov,6,0,224,3.5,UnitedHealthcare
+P-162,Sofia Ruiz,5,0,0,4.1,MetLife
+P-163,Salma Larsen,5,0,0,0.9,Aetna
+P-164,Elodie Watanabe,34,0,328,1.2,Guardian
+P-165,Dilara Walker,5,0,0,1.0,Aetna
+P-166,Nalani Martinez,11,0,0,2.9,Guardian
+P-167,Wei Blanco,9,0,0,0.4,Guardian
+P-168,Siena Kuroda,5,1,0,1.8,Delta Dental
+P-169,Elif Okonkwo,3,2,0,2.9,Humana
+P-170,Felix Cortes,4,0,460,1.8,UnitedHealthcare
+P-171,Siena Boateng,6,1,0,1.2,Aetna
+P-172,Quinn Espinoza,5,0,387,0.5,MetLife
+P-173,Wei Miyamoto,12,1,0,1.7,Cigna
+P-174,Hayden Delgado,6,0,0,1.5,Delta Dental
+P-175,Kamila Jones,5,1,0,3.8,Cigna
+P-176,Alejandro Kang,6,0,378,0.9,Aetna
+P-177,Amelia Dinh,6,1,0,1.6,MetLife
+P-178,Naomi Pavlov,6,0,0,0.5,Delta Dental
+P-179,Sadia Joshi,6,0,0,1.7,self-pay
+P-180,Fatima Nguyen,4,0,89,1.2,MetLife
+P-181,Dante Young,3,0,0,0.5,Delta Dental
+P-182,Piper Ferreira,11,0,0,1.3,BlueCross BlueShield
+P-183,Joaquin Davis,18,0,0,1.7,UnitedHealthcare
+P-184,Mariana Vargas,24,2,1125,1.2,self-pay
+P-185,Cheng Koh,10,1,0,0.4,Delta Dental
+P-186,Olamide Wilson,4,0,0,2.2,Cigna
+P-187,Ines Kaur,7,0,0,0.4,Delta Dental
+P-188,Jonas Nair,6,1,0,3.3,Aetna
+P-189,Brielle Blanco,25,0,0,0.9,BlueCross BlueShield
+P-190,Suraj Ansari,36,1,0,1.3,MetLife
+P-191,Odin Moon,7,0,71,0.7,Cigna
+P-192,Chen Ibarra,6,0,1626,0.4,Cigna
+P-193,Cosmo Shen,15,1,0,0.5,Aetna
+P-194,Rani Truong,9,0,0,1.1,Aetna
+P-195,Andre Luong,10,0,0,1.2,BlueCross BlueShield
+P-196,Oriana Flores,9,0,285,1.5,Aetna
+P-197,Paloma Maeda,4,0,1540,1.3,Delta Dental
+P-198,Nadia Pham,31,0,0,1.9,MetLife
+P-199,Willa Yoon,29,0,0,1.6,Aetna
+P-200,Kamala Kanellos,22,0,0,1.2,UnitedHealthcare
+P-201,Mariana Saleh,35,4,758,0.8,BlueCross BlueShield
+P-202,Nuri Dumitru,6,0,0,4.4,Delta Dental
+P-203,Ines Phan,11,0,461,1.6,Humana
+P-204,Tomas Yilmaz,16,0,0,1.4,Cigna
+P-205,Carmen Thomas,35,1,0,0.6,Delta Dental
+P-206,Kamila Cardoso,5,0,0,0.9,Delta Dental
+P-207,Emma Cruz,11,0,0,2.4,Aetna
+P-208,Idris Wahid,3,2,0,0.8,Delta Dental
+P-209,Layla Nordin,11,1,0,1.2,BlueCross BlueShield
+P-210,Chloe Loh,5,0,1104,1.0,Aetna
+P-211,Alejandro Brooks,30,1,422,1.7,Cigna
+P-212,Valentina Kang,13,1,373,1.7,BlueCross BlueShield
+P-213,Viola Blanco,6,0,0,1.1,Cigna
+P-214,Nadia Janssen,7,2,0,0.5,Delta Dental
+P-215,Priya Nguyen,10,1,0,1.0,Cigna
+P-216,Zainab Schneider,32,0,32,0.4,Aetna
+P-217,Yuki Meyer,5,0,0,1.1,MetLife
+P-218,Teo Le,13,1,179,1.3,Delta Dental
+P-219,Anh Obi,18,0,94,0.6,Humana
+P-220,Saira Song,4,2,0,1.7,Humana
+P-221,Jabari Bello,9,0,1242,0.9,MetLife
+P-222,Viola Rao,5,0,0,1.6,Guardian
+P-223,Vikram Ansari,5,0,0,1.3,UnitedHealthcare
+P-224,Francesca Kumar,9,0,0,2.0,BlueCross BlueShield
+P-225,Duc Gomez,4,0,92,1.0,Cigna
+P-226,Kamala Amador,3,0,0,0.4,Aetna
+P-227,Lorenzo Evans,4,2,0,1.9,MetLife
+P-228,Omar Barone,6,1,0,0.9,Aetna
+P-229,Brielle Osorio,8,0,0,1.8,Aetna
+P-230,Takoda Ndungu,7,0,83,3.6,UnitedHealthcare
+P-231,Gabriel Taylor,4,0,229,0.4,Aetna
+P-232,Yara Matsumoto,4,1,0,0.4,Aetna
+P-233,Luka Gomez,7,5,0,0.6,Guardian
+P-234,Naomi Cai,34,0,0,0.4,Aetna
+P-235,Chloe Quintero,10,0,0,0.7,MetLife
+P-236,Theo Baker,13,1,0,0.9,Cigna
+P-237,Kwame Quintero,4,0,0,0.9,Delta Dental
+P-238,Rose Kumar,6,0,0,1.8,MetLife
+P-239,Caleb Cai,7,0,0,0.7,MetLife
+P-240,Nadia Modi,7,0,0,0.9,Aetna
+P-241,Yara Ogawa,6,3,0,0.5,Delta Dental
+P-242,Idris Nakamura,3,0,0,0.8,Cigna
+P-243,Seth Ramirez,3,0,0,0.6,Aetna
+P-244,Mira Sokolov,6,0,0,1.7,BlueCross BlueShield
+P-245,Lorenzo Diaz,3,0,0,0.7,Cigna
+P-246,Kwame Le,4,0,0,0.5,UnitedHealthcare
+P-247,Leilani Hayashi,4,0,0,1.0,Delta Dental
+P-248,Tomas Yousef,7,1,0,3.4,Guardian
+P-249,Theo Palmer,35,0,0,0.9,UnitedHealthcare
+P-250,Svetlana Cardoso,3,0,0,1.0,Delta Dental
+P-251,Carmen Salas,7,5,255,3.4,Delta Dental
+P-252,Tariq Xu,3,0,453,0.9,MetLife
+P-253,Emma Blanco,6,5,0,0.6,Cigna
+P-254,Mohammed Phan,8,1,0,0.4,Guardian
+P-255,Jade Martinez,13,5,195,0.9,BlueCross BlueShield
+P-256,Josephine Santos,3,0,0,1.9,Guardian
+P-257,Zoe Dinh,11,0,0,1.2,Cigna
+P-258,Quentin Kapoor,4,0,0,1.6,MetLife
+P-259,Rosalind Bhatt,14,0,0,0.5,UnitedHealthcare
+P-260,Theo Ilunga,8,0,0,0.7,Cigna
+P-261,Ofelia Liu,5,4,124,1.2,self-pay
+P-262,Oriana Moreno,12,0,908,1.3,Cigna
+P-263,Vikram Yamashita,32,2,289,2.7,UnitedHealthcare
+P-264,Isabela Vargas,19,1,0,4.0,BlueCross BlueShield
+P-265,Anand Soares,7,0,0,0.5,Cigna
+P-266,Cheng Perez,9,0,266,1.3,UnitedHealthcare
+P-267,Ofelia Afolabi,15,0,305,3.5,Aetna
+P-268,Jagger Loh,3,0,0,1.3,BlueCross BlueShield
+P-269,Rani Amador,12,0,0,0.9,Cigna
+P-270,Nadia Kaito,8,0,0,3.4,UnitedHealthcare
+P-271,Ravi Ansari,6,0,0,1.0,Cigna
+P-272,Ben Popescu,3,1,195,0.6,Cigna
+P-273,Vikram Janssen,13,0,0,1.8,Delta Dental
+P-274,Omar Bertrand,3,1,186,3.3,self-pay
+P-275,Salma Wu,4,0,49,2.8,Delta Dental
+P-276,Lucia Thorne,29,2,0,3.2,Aetna
+P-277,Rocco Miller,13,0,0,2.5,Cigna
+P-278,Chen Cruz,5,0,0,0.9,Cigna
+P-279,Anya Raj,11,0,617,0.9,Aetna
+P-280,Zainab Hughes,19,1,0,0.4,Cigna
+P-281,Viola Ribeiro,7,0,0,0.6,Aetna
+P-282,Bodhi Halder,6,0,0,2.1,Delta Dental
+P-283,Rocco Sandoval,18,0,0,1.2,Cigna
+P-284,Quinn Khan,3,0,252,4.0,self-pay
+P-285,Kai Prasad,12,0,460,0.9,UnitedHealthcare
+P-286,Emma Reddy,3,3,0,0.6,MetLife
+P-287,Pablo Gomez,8,0,0,1.6,Aetna
+P-288,Mohammed Cohen,5,0,0,1.5,BlueCross BlueShield
+P-289,Santiago Jones,9,0,53,1.6,Cigna
+P-290,Elif Palmer,22,0,1081,1.4,Guardian
+P-291,Santiago Molina,5,0,0,1.7,MetLife
+P-292,Emeka Petrov,12,0,66,0.9,MetLife
+P-293,Wei Konstantinou,11,0,0,3.4,Guardian
+P-294,Joaquin Yang,6,0,0,0.7,Aetna
+P-295,Fiona Pham,10,2,0,2.9,Aetna
+P-296,Lucia Espinoza,6,0,0,0.3,Humana
+P-297,Thalia Song,4,1,1976,1.0,Aetna
+P-298,Rhea Watanabe,5,0,0,0.7,Cigna
+P-299,Stella Raj,5,0,359,1.4,Delta Dental
+P-300,Chloe Taylor,5,1,212,0.3,MetLife
+P-301,Lorenzo Nair,7,0,0,1.7,Guardian
+P-302,Dante Duarte,5,0,0,0.8,Aetna
+P-303,Anya Bouchard,5,1,0,1.1,Delta Dental
+P-304,Teo Osei,7,1,0,1.0,MetLife
+P-305,Siena Nordin,3,0,0,3.5,UnitedHealthcare
+P-306,Uma Baker,5,5,0,1.7,Delta Dental
+P-307,Uma Ruiz,4,0,725,0.7,Aetna
+P-308,Moira Kim,7,2,401,1.8,MetLife
+P-309,Seth Pandey,30,0,0,1.1,Cigna
+P-310,Leo Mikkelsen,9,4,0,1.2,Cigna
+P-311,Jagger Koh,11,0,0,4.0,Cigna
+P-312,Daniela Ruiz,27,1,799,0.6,UnitedHealthcare
+P-313,Layla Truong,13,0,0,1.1,UnitedHealthcare
+P-314,Dimitri Evans,12,0,0,2.6,Cigna
+P-315,Cheng Smith,6,0,27,4.4,Delta Dental
+P-316,Wen Xu,4,1,0,0.4,UnitedHealthcare
+P-317,Wei Lin,3,2,0,2.4,BlueCross BlueShield
+P-318,Miguel Yusuf,5,2,0,1.3,self-pay
+P-319,Jade Velasco,32,0,93,3.2,Delta Dental
+P-320,Claire Pavlov,6,0,32,1.8,MetLife
+P-321,Fatima Janssen,13,2,288,0.7,Delta Dental
+P-322,Dimitri Yamada,4,0,0,0.5,Cigna
+P-323,Stella Akhtar,5,1,0,0.6,Aetna
+P-324,Raphael Okonkwo,13,2,0,1.4,Delta Dental
+P-325,Elena Velasco,12,0,492,0.8,Guardian
+P-326,Gabriel Mansour,12,2,0,0.9,Delta Dental
+P-327,Siena Fernandez,7,2,0,0.4,BlueCross BlueShield
+P-328,Odin Fischer,13,0,0,1.0,Aetna
+P-329,Rhea Soares,3,0,0,0.3,Cigna
+P-330,Aaron Kuroda,3,0,302,4.3,Delta Dental
+P-331,Paloma Bello,4,1,398,1.5,self-pay
+P-332,Mariana Usman,27,0,0,1.6,Guardian
+P-333,Leilani Flores,7,0,0,4.1,UnitedHealthcare
+P-334,Jia Wang,12,0,0,0.7,Delta Dental
+P-335,Ezra Fernandez,6,0,532,0.4,MetLife
+P-336,Ofelia Brennan,3,0,0,1.1,Delta Dental
+P-337,Raphael Nakamura,7,0,0,1.5,Cigna
+P-338,Dominique Le,5,0,858,1.5,Aetna
+P-339,Layla Sakamoto,10,1,0,0.5,MetLife
+P-340,Harvey Leung,4,1,312,0.7,MetLife
+P-341,Maya Maeda,5,0,1259,1.0,Delta Dental
+P-342,Iris Romero,12,0,0,1.7,Guardian
+P-343,Gabriel Yamamoto,5,0,133,4.4,Delta Dental
+P-344,Piper Maeda,13,0,307,0.6,Aetna
+P-345,Wei Rao,5,0,0,1.2,Aetna
+P-346,Kai Kim,6,0,404,0.5,Humana
+P-347,Soren Sokolov,4,0,0,1.6,Guardian
+P-348,Zoe Petrov,6,5,260,1.0,Delta Dental
+P-349,Salma Yoon,7,3,0,1.3,BlueCross BlueShield
+P-350,Aroha Aguilar,4,0,0,0.7,Delta Dental
+P-351,Vera Yang,8,0,0,0.8,Cigna
+P-352,Jagger Amador,6,1,79,3.3,Cigna
+P-353,Thandi Martinez,10,1,0,3.1,Cigna
+P-354,Geraldine Nordin,14,0,1830,1.3,Aetna
+P-355,Santiago Xu,3,1,0,1.7,Cigna
+P-356,Cato Boateng,7,0,0,1.1,BlueCross BlueShield
+P-357,Siena Bello,5,0,0,1.0,BlueCross BlueShield
+P-358,Bodhi Nordin,4,0,371,2.8,UnitedHealthcare
+P-359,Dimitri Cruz,5,0,0,1.5,UnitedHealthcare
+P-360,Takoda Schneider,25,0,0,3.2,Cigna
+P-361,Malia Thakur,7,1,0,1.8,UnitedHealthcare
+P-362,Caleb Mirza,4,1,0,0.3,Cigna
+P-363,Lorenzo Miyamoto,3,0,0,1.5,Delta Dental
+P-364,Leo Dinh,5,2,0,1.0,UnitedHealthcare
+P-365,Seth Maeda,4,1,0,0.5,Delta Dental
+P-366,Elodie Thomas,5,0,0,0.5,Guardian
+P-367,Takoda Kato,4,0,1180,1.5,BlueCross BlueShield
+P-368,Nuri Perez,7,0,0,2.5,Cigna
+P-369,Miguel Osei,6,3,0,1.0,Aetna
+P-370,Siena Khan,7,0,38,3.2,UnitedHealthcare
+P-371,Nuri Ndiaye,8,1,234,1.3,Cigna
+P-372,Ibrahim Hoang,14,0,0,1.7,MetLife
+P-373,Nalani Bertrand,10,1,329,1.3,UnitedHealthcare
+P-374,Willa Ramirez,7,0,1887,2.0,Cigna
+P-375,Noa Espinoza,5,0,310,1.7,Aetna
+P-376,Mei Wang,12,1,0,3.2,Cigna
+P-377,Caleb Fischer,13,0,0,0.5,Aetna
+P-378,Pedro Duarte,6,0,0,1.3,BlueCross BlueShield
+P-379,Viola Evans,9,2,289,0.4,MetLife
+P-380,Oriana Lin,13,0,0,0.3,Guardian
+P-381,Felix Vargas,6,0,0,0.9,UnitedHealthcare
+P-382,Sofia Eklund,12,0,0,0.5,BlueCross BlueShield
+P-383,Rose Olivera,7,0,0,0.7,Delta Dental
+P-384,Yuki Nielsen,33,0,0,0.6,Delta Dental
+P-385,Dominique Sandoval,4,0,0,0.8,BlueCross BlueShield
+P-386,Emma Iqbal,4,0,342,0.6,Delta Dental
+P-387,Dilara Karimov,12,0,0,1.5,BlueCross BlueShield
+P-388,Quinn Iqbal,3,1,0,0.5,Cigna
+P-389,Omar Yusuf,3,0,0,1.2,MetLife
+P-390,Anya Tran,6,0,409,1.1,Delta Dental
+P-391,Ines Qiu,17,0,985,1.0,Guardian
+P-392,Teo Tanaka,4,1,437,0.6,Cigna
+P-393,Sadia Ismail,5,0,0,4.5,Guardian
+P-394,Cato Haddad,28,2,1843,1.1,Cigna
+P-395,Kamala Mansour,13,0,0,1.7,Aetna
+P-396,Bodhi Dinh,5,1,257,2.8,Delta Dental
+P-397,Carmen Wagner,13,0,0,0.5,Aetna
+P-398,Freya Yusuf,5,0,0,1.6,Cigna
+P-399,Zara Brennan,6,0,823,0.3,Humana
+P-400,Finn Gonzalez,24,0,1061,0.6,Delta Dental
+P-401,Yara Ilunga,5,1,244,1.8,Delta Dental
+P-402,Piper Crouch,4,0,0,0.6,Delta Dental
+P-403,Naomi Gonzalez,4,0,77,0.6,Cigna
+P-404,Mariana Gupta,13,0,0,0.9,Aetna
+P-405,Freya Hernandez,34,1,69,2.4,Delta Dental
+P-406,Mateo Quintero,25,1,0,1.4,MetLife
+P-407,Tenzin Mukherjee,13,0,473,0.8,MetLife
+P-408,Mei Nguyen,14,2,1513,0.5,Guardian
+P-409,Bianca Alder,25,0,316,0.8,Delta Dental
+P-410,Paloma Cohen,3,0,0,4.4,Aetna
+P-411,Jagger Zhang,11,1,0,0.9,Cigna
+P-412,Josephine Cruz,4,3,0,0.9,BlueCross BlueShield
+P-413,Zara Chen,6,1,54,1.1,Delta Dental
+P-414,Teo Cardoso,4,0,384,0.7,Cigna
+P-415,Rocco Mehta,4,1,400,3.9,Delta Dental
+P-416,Nikhil Modi,5,1,0,0.7,Aetna
+P-417,Rani Iqbal,5,1,370,1.4,MetLife
+P-418,Arjun Alder,6,0,866,4.1,MetLife
+P-419,Wen Song,4,0,163,1.7,Delta Dental
+P-420,Yuki Cai,7,4,0,0.6,BlueCross BlueShield
+P-421,Kamila Delgado,3,0,0,1.8,Cigna
+P-422,Lucia Yousef,21,1,0,1.3,Humana
+P-423,Anand Liu,3,3,217,1.8,Delta Dental
+P-424,Rose Loh,3,3,72,0.5,BlueCross BlueShield
+P-425,Moira Roberts,3,0,0,1.5,MetLife
+P-426,Ayano Thomas,9,0,0,1.0,UnitedHealthcare
+P-427,Kamila Ortega,4,0,0,1.7,Delta Dental
+P-428,Elodie Vargas,6,0,0,1.6,Aetna
+P-429,Dana Dimitriou,5,1,0,1.1,Cigna
+P-430,Carmen Marino,27,0,0,1.2,Delta Dental
+P-431,Mira Vasquez,7,0,0,1.3,Delta Dental
+P-432,Gemma Gomez,6,0,0,1.7,Cigna
+P-433,Bodhi Arora,21,2,0,1.1,BlueCross BlueShield
+P-434,Kiran Gallo,6,0,1387,1.5,Delta Dental
+P-435,Zara Tan,4,2,0,0.4,Guardian
+P-436,Thalia Makowski,11,0,0,0.6,Delta Dental
+P-437,Finn Marino,14,0,0,0.9,Aetna
+P-438,Quentin Popescu,31,0,0,0.8,Delta Dental
+P-439,Jabari Carrillo,11,0,144,2.3,Guardian
+P-440,Iris Cardoso,9,0,1295,1.1,BlueCross BlueShield
+P-441,Enzo Loh,5,2,0,2.0,MetLife
+P-442,Siena Kanellos,14,2,0,0.7,Delta Dental
+P-443,Hana Larsen,6,0,128,1.5,Delta Dental
+P-444,Kamala Castillo,7,1,0,0.8,Aetna
+P-445,Bianca Rodriguez,13,0,0,0.4,Delta Dental
+P-446,Noor Yilmaz,9,1,0,3.5,Cigna
+P-447,Yara Janssen,5,0,384,3.0,self-pay
+P-448,Sigrid Bello,5,2,952,1.3,Aetna
+P-449,Kiran Crouch,5,0,70,1.7,UnitedHealthcare
+P-450,Kofi Ueda,4,0,0,0.4,Delta Dental
+P-451,Mateo Torres,9,2,0,0.8,Delta Dental
+P-452,Piper Leung,3,1,0,0.5,Delta Dental
+P-453,Lars Iwu,20,1,0,2.2,MetLife
+P-454,Thalia Yang,11,2,0,2.4,Delta Dental
+P-455,Fiona Kang,7,1,160,1.4,Delta Dental
+P-456,Mei Young,5,0,0,1.7,Aetna
+P-457,Cato Baker,5,4,182,1.6,BlueCross BlueShield
+P-458,Ines Dimitriou,11,0,214,0.3,Aetna
+P-459,Ines Leung,12,0,366,0.9,BlueCross BlueShield
+P-460,Moira Li,6,1,0,1.1,Aetna
+P-461,Hanh Xu,6,2,282,1.6,MetLife
+P-462,Thandi Hayashi,6,0,933,1.3,Aetna
+P-463,Zara Thomas,4,1,0,4.3,Delta Dental
+P-464,Maya Schneider,5,0,31,1.7,MetLife
+P-465,Nalani Fernandez,4,0,0,2.3,Delta Dental
+P-466,Cheng Murillo,26,2,0,1.7,Aetna
+P-467,Emma Monroe,7,0,0,1.1,Cigna
+P-468,Hanh Brooks,10,2,0,1.4,Cigna
+P-469,Quinn Dubois,22,0,1407,1.5,UnitedHealthcare
+P-470,Tariq Diaz,4,2,0,0.8,Aetna
+P-471,Ayaan Hughes,7,0,293,2.1,Delta Dental
+P-472,Finn Carrillo,6,0,0,0.6,Aetna
+P-473,Miguel Garcia,9,0,0,1.1,MetLife
+P-474,Leilani Popescu,5,1,0,0.6,Delta Dental
+P-475,Simone Krause,35,0,0,1.6,BlueCross BlueShield
+P-476,Zara Ahmed,4,0,0,0.5,BlueCross BlueShield
+P-477,Jonas Molina,6,2,0,0.6,MetLife
+P-478,Theo Schneider,3,0,0,1.5,Guardian
+P-479,Tenzin Moreno,3,0,0,0.6,Cigna
+P-480,Wen Nielsen,7,1,437,4.0,Aetna
+P-481,Kai Hamdan,13,0,0,3.0,UnitedHealthcare
+P-482,Stella Kang,4,1,0,1.1,Cigna
+P-483,Jia Iwu,12,0,0,0.5,BlueCross BlueShield
+P-484,Esme Perez,9,0,182,1.1,Aetna
+P-485,Stella Ndungu,3,0,323,1.7,Aetna
+P-486,Fatima Zhang,6,0,0,2.4,self-pay
+P-487,Lars Singh,29,0,117,1.6,Guardian
+P-488,Enzo Olivera,8,0,0,1.7,Delta Dental
+P-489,Camila Gomez,13,0,0,0.3,MetLife
+P-490,Luka Alvarado,31,0,0,1.4,UnitedHealthcare
+P-491,Layla Okonkwo,6,0,0,0.3,Humana
+P-492,Oliver Petrov,4,0,208,1.3,BlueCross BlueShield
+P-493,Mira Andersen,4,0,0,0.4,UnitedHealthcare
+P-494,Anh Rojas,23,1,0,1.2,Delta Dental
+P-495,Ana Brennan,11,0,0,0.9,Delta Dental
+P-496,Zoe Ahmed,3,1,0,1.3,BlueCross BlueShield
+P-497,Chen Flores,3,0,0,1.9,self-pay
+P-498,Linnea Singh,3,0,377,2.8,Delta Dental
+P-499,Yaroslav Diaz,33,1,0,0.8,UnitedHealthcare
+P-500,Cheng Mbeki,11,4,0,1.0,BlueCross BlueShield
+P-501,Jamal Rasmussen,10,0,0,4.2,Delta Dental
+P-502,Dimitri Iwu,6,4,72,0.6,Delta Dental
+P-503,Minh Vidal,6,1,0,1.1,Delta Dental
+P-504,Darius Castillo,20,0,272,1.7,Delta Dental
+P-505,Mariana Rao,14,1,481,1.1,Delta Dental
+P-506,Moira Tran,5,1,0,3.3,UnitedHealthcare
+P-507,Siena Lee,36,2,0,1.7,Aetna
+P-508,Hiro Yamashita,6,0,481,2.1,Guardian
+P-509,Elias Zhou,14,0,0,1.5,Cigna
+P-510,Jabari Brooks,7,0,0,0.7,BlueCross BlueShield
+P-511,Ofelia Diaz,29,0,1838,0.7,Delta Dental
+P-512,Sana Acosta,14,0,0,0.8,Delta Dental
+P-513,Yaroslav Vidal,26,1,457,0.8,Guardian
+P-514,Pedro Reyes,8,0,0,0.6,Guardian
+P-515,Jamal Rodriguez,8,2,0,1.8,Aetna
+P-516,Idris Kato,6,0,122,1.3,Aetna
+P-517,Valentina Garcia,11,0,0,1.2,Delta Dental
+P-518,Aroha Thakur,11,2,491,0.8,UnitedHealthcare
+P-519,Dante Escobar,7,0,0,3.0,MetLife
+P-520,Hiro Molina,5,4,95,0.9,UnitedHealthcare
+P-521,Jia Olivera,12,0,0,1.4,Cigna
+P-522,Yuki Gonzalez,35,3,0,1.5,Delta Dental
+P-523,Leo Yamamoto,6,1,298,1.1,BlueCross BlueShield
+P-524,Rory Espinoza,4,0,0,1.0,self-pay
+P-525,Zara Markos,3,1,0,1.2,BlueCross BlueShield
+P-526,Chen Lee,12,0,0,1.8,UnitedHealthcare
+P-527,Aroha Sakamoto,5,3,0,0.9,UnitedHealthcare
+P-528,Odin Leung,35,0,0,1.4,UnitedHealthcare
+P-529,Fatima Ndungu,3,0,0,0.6,Aetna
+P-530,Sasha Mikkelsen,7,1,0,1.1,Delta Dental
+P-531,Kamala Cai,13,0,0,0.8,Cigna
+P-532,Kai Larsen,31,0,0,0.8,Delta Dental
+P-533,Gemma Krause,10,0,0,1.6,self-pay
+P-534,Wei Ahmed,5,0,339,2.6,Delta Dental
+P-535,Kamala Sakamoto,18,0,0,1.1,BlueCross BlueShield
+P-536,Luka Ueda,5,2,0,1.2,Delta Dental
+P-537,Sadia Aguilar,9,1,467,1.9,Delta Dental
+P-538,Noor Clark,9,0,44,0.3,UnitedHealthcare
+P-539,Sasha Clark,4,2,0,0.7,Cigna
+P-540,Maya Flores,7,0,48,1.3,Humana
+P-541,Chloe Nakamura,10,0,0,3.0,BlueCross BlueShield
+P-542,Andre Wu,4,0,0,1.6,self-pay
+P-543,Dominique Nielsen,14,2,0,2.0,BlueCross BlueShield
+P-544,Dominique Garcia,7,0,0,2.8,UnitedHealthcare
+P-545,Layla Kovacs,7,0,0,1.4,Delta Dental
+P-546,Yaroslav Calderon,32,0,0,0.4,Delta Dental
+P-547,Soren Yilmaz,26,0,0,0.9,BlueCross BlueShield
+P-548,Kai Yao,7,1,0,0.8,BlueCross BlueShield
+P-549,Nikhil Ismail,4,1,353,1.1,Delta Dental
+P-550,Kiran Yamamoto,5,1,0,0.9,Delta Dental
+P-551,Jabari Hamdan,21,0,64,1.9,BlueCross BlueShield
+P-552,Uma Barone,12,0,0,3.4,MetLife
+P-553,Saira Wong,9,0,0,1.8,Cigna
+P-554,Oriana Zhang,6,0,0,1.2,self-pay
+P-555,Zoe Ilunga,9,0,0,3.6,self-pay
+P-556,Priya Rao,6,0,0,0.9,MetLife
+P-557,Lorenzo Sandoval,6,2,0,1.3,self-pay
+P-558,Valentina Molina,10,0,0,0.6,MetLife
+P-559,Bodhi Markos,4,0,0,3.2,Aetna
+P-560,Tariq Aguilar,4,0,0,0.6,Delta Dental
+P-561,Elias Reddy,14,0,0,1.8,Aetna
+P-562,Piper Yamamoto,4,0,0,0.4,MetLife
+P-563,Dilara Blanco,19,0,0,1.2,MetLife
+P-564,Siena Andersen,36,1,943,1.2,BlueCross BlueShield
+P-565,Emeka Larsen,12,0,0,1.7,MetLife
+P-566,Elodie Pineda,34,0,0,0.4,Delta Dental
+P-567,Ravi Song,12,0,0,1.2,UnitedHealthcare
+P-568,Raphael Flores,4,2,0,1.1,Guardian
+P-569,Noa Sorensen,3,1,0,3.2,UnitedHealthcare
+P-570,Leilani Dubois,5,0,0,2.7,BlueCross BlueShield
+P-571,Mohammed Mbeki,3,0,0,0.9,Guardian
+P-572,Juno Singh,4,0,0,0.8,MetLife
+P-573,Teo Monroe,27,1,0,1.6,Aetna
+P-574,Sasha Yang,5,0,228,1.9,Guardian
+P-575,Giulia Ueda,9,0,0,1.8,Guardian
+P-576,Zoe Cai,3,1,266,3.1,Delta Dental
+P-577,Gemma Rizvi,3,1,1320,1.6,UnitedHealthcare
+P-578,Takoda Carrillo,20,0,0,0.9,BlueCross BlueShield
+P-579,Jagger Karimov,7,0,0,1.7,Cigna
+P-580,Wen Acosta,17,4,0,0.8,MetLife
+P-581,Ben Dimitriou,7,2,0,2.7,MetLife
+P-582,Fatima Velasco,33,0,0,0.8,MetLife
+P-583,Lars Fischer,10,2,319,0.7,Aetna
+P-584,Priya Maeda,14,0,0,1.2,Delta Dental
+P-585,Ben Sakamoto,9,1,0,1.2,MetLife
+P-586,Alejandro Meyer,3,0,200,1.1,Aetna
+P-587,Leo Kuroda,23,0,490,1.0,Cigna
+P-588,Harvey Mikkelsen,4,1,207,0.4,Humana
+P-589,Zainab Yousef,14,2,1487,0.6,BlueCross BlueShield
+P-590,Sofia Molina,7,0,0,1.2,UnitedHealthcare
+P-591,Piper Bello,6,2,259,3.7,Aetna
+P-592,Alejandro Alder,11,0,0,1.4,MetLife
+P-593,Hanh Mirza,7,0,0,0.7,UnitedHealthcare
+P-594,Lourdes Shah,4,0,1904,0.4,Cigna
+P-595,Hanh Thakur,21,0,806,0.3,Aetna
+P-596,Dilara Omondi,10,0,49,0.9,Delta Dental
+P-597,Idris Xu,8,0,0,0.8,Humana
+P-598,Idris Popescu,3,0,0,1.7,Guardian
+P-599,Sadia Janssen,24,0,0,1.0,BlueCross BlueShield
+P-600,Mariana Murillo,4,2,0,3.1,Guardian
+P-601,Mira Clark,5,0,0,0.5,Guardian
+P-602,Isabela Tsai,10,1,0,0.5,BlueCross BlueShield
+P-603,Dante Lopez,13,1,0,0.4,Delta Dental
+P-604,Pedro Calderon,6,0,712,0.4,Guardian
+P-605,Maya Okafor,5,0,0,0.5,Delta Dental
+P-606,Linnea Pandey,29,5,1623,1.2,UnitedHealthcare
+P-607,Enzo Vidal,13,2,0,1.6,BlueCross BlueShield
+P-608,Priya Li,11,0,0,0.3,MetLife
+P-609,Dilara Popescu,7,0,1477,1.0,UnitedHealthcare
+P-610,Takoda Lin,12,0,0,1.5,Delta Dental
+P-611,Viola Santana,9,0,0,1.0,BlueCross BlueShield
+P-612,Zoe Modi,7,1,0,2.5,Cigna
+P-613,Vera Vidal,10,1,0,0.4,self-pay
+P-614,Ana Kaito,24,0,397,0.4,Delta Dental
+P-615,Gabriel Pineda,6,4,0,0.4,UnitedHealthcare
+P-616,Duc Cardoso,6,0,0,1.1,BlueCross BlueShield
+P-617,Amara Gallo,22,0,1006,1.2,Aetna
+P-618,Cato Koh,5,2,0,1.8,MetLife
+P-619,Daniela Martinez,5,0,467,2.0,Cigna
+P-620,Noor Pandey,5,0,0,1.2,MetLife
+P-621,Pedro Horvath,3,0,0,1.5,self-pay
+P-622,Tomas Castillo,4,1,89,0.6,MetLife
+P-623,Viola Prasad,11,1,0,1.0,Cigna
+P-624,Anya Yao,12,0,0,0.5,Cigna
+P-625,Pablo Molina,34,2,0,0.4,Cigna
+P-626,Ines Ribeiro,7,0,0,1.1,UnitedHealthcare
+P-627,Harvey Osorio,13,4,0,1.8,Delta Dental
+P-628,Jade Palmer,5,0,0,1.1,Delta Dental
+P-629,Andrea Khoury,4,0,0,1.7,MetLife
+P-630,Svetlana Mbeki,4,0,0,2.5,Aetna
+P-631,Brielle Watanabe,8,0,480,0.6,UnitedHealthcare
+P-632,Thalia Miller,3,1,0,0.8,Delta Dental
+P-633,Hana Saleh,7,1,0,3.4,MetLife
+P-634,Chloe Rao,13,1,110,1.6,MetLife
+P-635,Willa Hossain,7,0,0,1.2,Cigna
+P-636,Luka Smith,11,1,0,0.8,Aetna
+P-637,Sana Matsumoto,6,0,0,2.0,MetLife
+P-638,Rocco Haddad,24,0,939,2.1,BlueCross BlueShield
+P-639,Ivo Horvath,6,0,0,0.8,Cigna
+P-640,Jia Dinh,7,2,395,0.7,Aetna
+P-641,Sofia Do,5,0,220,0.4,UnitedHealthcare
+P-642,Leilani Thomas,3,2,0,1.7,Delta Dental
+P-643,Uma Sakamoto,7,0,0,0.8,Cigna
+P-644,Aroha Sato,34,0,0,1.0,Delta Dental
+P-645,Kwame Dasari,3,0,0,0.7,UnitedHealthcare
+P-646,Dilara Yamashita,6,0,0,2.0,MetLife
+P-647,Hayden Clark,6,0,683,0.7,Aetna
+P-648,Ezra Osorio,3,1,0,1.0,BlueCross BlueShield
+P-649,Theo Hassan,4,0,0,1.9,Delta Dental
+P-650,Astrid Maeda,19,2,32,1.0,Cigna
+P-651,Paloma Arora,7,0,0,1.6,Guardian
+P-652,Dominique Andersen,7,0,0,1.0,Guardian
+P-653,Astrid Warner,8,0,0,1.9,Aetna
+P-654,Chloe Andersen,6,0,0,2.2,Cigna
+P-655,Takoda Diaz,7,5,544,1.1,Cigna
+P-656,Quinn Sato,8,0,0,1.4,self-pay
+P-657,Raphael Monroe,13,0,0,4.5,Humana
+P-658,Jabari Leung,6,1,0,1.2,Guardian
+P-659,Tomas Li,7,0,1739,0.8,Delta Dental
+P-660,Dimitri Khoury,24,1,490,1.2,self-pay
+P-661,Duc Hossain,7,0,119,1.1,UnitedHealthcare
+P-662,Kai Smith,24,0,1804,2.7,UnitedHealthcare
+P-663,Chloe Gonzalez,7,0,0,1.7,Cigna
+P-664,Anand Rao,6,0,265,1.5,BlueCross BlueShield
+P-665,Quinn Wu,4,0,0,4.3,Humana
+P-666,Gemma Khoury,8,0,1399,3.2,Cigna
+P-667,Omar Mansour,3,0,393,0.9,UnitedHealthcare
+P-668,Takoda Bhatt,6,0,474,3.3,Aetna
+P-669,Anya Sandoval,3,0,0,3.9,Cigna
+P-670,Elodie Suzuki,3,1,262,1.6,UnitedHealthcare
+P-671,Claire Johnson,13,0,0,0.3,Aetna
+P-672,Finn Velasco,5,1,432,1.0,Delta Dental
+P-673,Olamide Reddy,6,1,1753,2.9,Aetna
+P-674,Emeka Perez,4,0,0,1.2,Cigna
+P-675,Ofelia Nair,8,2,507,1.4,Aetna
+P-676,Rani Afolabi,11,0,0,0.7,Delta Dental
+P-677,Tamsin Aguilar,7,0,0,1.4,Delta Dental
+P-678,Ayaan Qiu,3,1,177,0.4,Delta Dental
+P-679,Enzo Ibarra,12,1,0,1.6,self-pay
+P-680,Soren Rasmussen,17,1,0,4.1,UnitedHealthcare
+P-681,Sana Chen,4,0,193,0.8,UnitedHealthcare
+P-682,Teo Carrillo,7,4,334,4.5,Cigna
+P-683,Tenzin Ortega,7,4,1758,1.6,Guardian
+P-684,Rafael Johnson,22,1,503,0.7,UnitedHealthcare
+P-685,Francesca Soares,5,0,133,0.5,Cigna
+P-686,Ben Ogawa,7,0,0,1.5,UnitedHealthcare
+P-687,Thalia Banerjee,9,0,0,1.9,UnitedHealthcare
+P-688,Viola Haddad,6,2,0,1.0,Aetna
+P-689,Ayaan Nordin,5,0,0,1.5,BlueCross BlueShield
+P-690,Leo Chen,23,1,0,0.8,Delta Dental
+P-691,Tenzin Santana,3,2,386,3.8,Cigna
+P-692,Camila Zahra,26,0,942,0.5,Aetna
+P-693,Anh Khoury,29,0,488,0.5,Humana
+P-694,Rosalind Okafor,9,1,0,3.3,self-pay
+P-695,Fiona Bertrand,7,0,0,1.1,BlueCross BlueShield
+P-696,Kofi Watanabe,18,0,0,0.8,Cigna
+P-697,Francesca Osorio,5,0,0,0.4,Delta Dental
+P-698,Ivo Ferreira,7,0,0,0.8,Cigna
+P-699,Jade Makowski,5,0,0,0.4,Aetna
+P-700,Yuki Brooks,3,0,0,1.9,Guardian
+P-701,Ofelia Ramos,4,1,0,1.2,UnitedHealthcare
+P-702,Pablo Gonzalez,6,0,0,1.8,Aetna
+P-703,Geraldine Hansen,34,0,0,1.1,Cigna
+P-704,Kamila Velasco,3,0,0,0.5,UnitedHealthcare
+P-705,Tariq Gomes,6,1,191,1.3,Cigna
+P-706,Oriana Shah,4,0,0,3.0,Cigna
+P-707,Svetlana Taylor,11,0,0,1.3,Guardian
+P-708,Simone Yilmaz,7,0,0,1.3,Humana
+P-709,Ben Evans,12,1,0,0.9,Delta Dental
+P-710,Dimitri Acosta,13,0,0,0.8,Delta Dental
+P-711,Zara Ortega,5,2,1970,2.9,Delta Dental
+P-712,Alejandro Shen,14,0,0,0.3,UnitedHealthcare
+P-713,Linnea Falk,15,0,226,1.8,Aetna
+P-714,Noor Kovacs,11,0,0,1.5,Aetna
+P-715,Jagger Ghosh,3,0,0,3.6,self-pay
+P-716,Dilara Davis,6,2,381,1.5,Delta Dental
+P-717,Reed Takahashi,6,0,0,0.3,Aetna
+P-718,Hanh Zhang,7,0,0,0.7,Aetna
+P-719,Soren Yamashita,17,0,464,3.9,Aetna
+P-720,Brielle Diaz,3,1,0,1.7,BlueCross BlueShield
+P-721,Ruben Akhtar,7,2,0,0.6,self-pay
+P-722,Jasper Nakamura,7,1,313,0.9,MetLife
+P-723,Simone Cai,10,1,0,0.4,MetLife
+P-724,Jabari Martinez,5,0,0,1.7,BlueCross BlueShield
+P-725,Eamon Ueda,4,0,273,0.8,Delta Dental
+P-726,Caleb Hassan,4,1,236,1.4,Aetna
+P-727,Vera Iqbal,5,0,0,1.2,Aetna
+P-728,Pedro Novak,7,0,0,0.5,MetLife
+P-729,Noor Alder,6,0,0,1.2,Delta Dental
+P-730,Ruben Ramirez,28,0,0,0.5,BlueCross BlueShield
+P-731,Idris Santos,4,1,0,0.6,UnitedHealthcare
+P-732,Esme Olivera,3,1,0,0.4,Aetna
+P-733,Gemma Mukherjee,3,0,0,3.6,BlueCross BlueShield
+P-734,Tamsin Gallo,8,0,0,1.0,Guardian
+P-735,Evan Falk,10,0,0,0.7,self-pay
+P-736,Nikhil Palmer,3,0,0,1.2,Cigna
+P-737,Ines Jimenez,6,3,0,0.7,Delta Dental
+P-738,Noa Kuroda,8,2,77,0.4,UnitedHealthcare
+P-739,Ofelia Andersen,19,1,0,0.7,Delta Dental
+P-740,Kiran Santos,7,1,269,1.1,UnitedHealthcare
+P-741,Ben Leung,6,0,0,2.8,Cigna
+P-742,Ayaan Dimitriou,5,0,0,1.7,Delta Dental
+P-743,Anya Salas,10,1,347,1.6,BlueCross BlueShield
+P-744,Nuri Kang,4,0,988,0.4,MetLife
+P-745,Jonas Zane,6,3,0,1.0,Delta Dental
+P-746,Dana Kovacs,13,0,1598,0.8,Humana
+P-747,Anh Han,3,0,48,0.9,Delta Dental
+P-748,Uma Brooks,18,0,0,1.9,Delta Dental
+P-749,Rani Larsen,4,0,402,1.5,self-pay
+P-750,Sofia Halder,4,1,0,0.4,Delta Dental
+P-751,Nadia Ismail,12,0,0,1.3,UnitedHealthcare
+P-752,Uma Rojas,8,2,0,1.1,UnitedHealthcare
+P-753,Svetlana Mukherjee,6,1,0,1.6,Aetna
+P-754,Emma Bhatt,6,0,0,1.4,Aetna
+P-755,Sasha Lopez,7,5,0,1.6,Delta Dental
+P-756,Tomas Koh,4,0,0,1.9,Aetna
+P-757,Elias Bose,5,0,0,1.0,UnitedHealthcare
+P-758,Arjun Escobar,12,0,273,0.4,Cigna
+P-759,Odin Pandey,5,0,0,0.5,Aetna
+P-760,Finn Rojas,17,0,0,2.4,Humana
+P-761,Oliver Jimenez,4,0,0,0.5,Cigna
+P-762,Andrea Castillo,3,2,0,0.6,BlueCross BlueShield
+P-763,Tariq Hossain,13,3,0,1.4,Aetna
+P-764,Rory Yoon,21,0,167,0.7,BlueCross BlueShield
+P-765,Hiro Park,4,2,0,0.8,Delta Dental
+P-766,Arjun Blanco,31,0,0,1.0,BlueCross BlueShield
+P-767,Olamide Yusuf,7,1,0,0.5,Cigna
+P-768,Harvey Dimitriou,5,0,0,1.7,self-pay
+P-769,Oriana Halder,27,0,345,0.9,BlueCross BlueShield
+P-770,Bianca Saleh,25,0,0,1.8,Guardian
+P-771,Sofia Koh,8,0,0,3.3,BlueCross BlueShield
+P-772,Lourdes Cai,5,0,0,0.9,UnitedHealthcare
+P-773,Seth Kim,5,0,0,1.1,MetLife
+P-774,Francesca Leung,5,0,0,0.6,Aetna
+P-775,Raphael Gallo,7,1,0,0.9,UnitedHealthcare
+P-776,Beatrice Kanellos,29,0,0,1.2,Delta Dental
+P-777,Elodie Monroe,4,0,291,2.1,Aetna
+P-778,Zara Gonzalez,6,0,0,0.4,BlueCross BlueShield
+P-779,Hana Perez,5,1,273,1.8,BlueCross BlueShield
+P-780,Odin Wagner,4,2,0,1.4,Aetna
+P-781,Jagger Brennan,5,0,0,3.8,Cigna
+P-782,Emma Hoang,3,0,0,0.5,Delta Dental
+P-783,Seth Berg,10,0,0,3.3,Delta Dental
+P-784,Anand Shin,19,2,819,1.0,self-pay
+P-785,Kiran Nguyen,5,5,0,1.8,Humana
+P-786,Kwame Fernandez,8,0,0,0.7,BlueCross BlueShield
+P-787,Ofelia Ramos,3,0,0,1.0,UnitedHealthcare
+P-788,Felix Arora,6,1,1548,0.7,MetLife
+P-789,Reed Cardoso,26,0,243,0.6,Cigna
+P-790,Leilani Ogawa,32,0,252,1.5,Aetna
+P-791,Elif Takahashi,11,0,0,0.5,Aetna
+P-792,Rosalind Perez,7,1,0,1.1,Aetna
+P-793,Sasha Walker,14,2,0,1.4,Aetna
+P-794,Joaquin Obi,6,0,103,1.2,BlueCross BlueShield
+P-795,Paloma Garcia,10,0,0,1.4,Delta Dental
+P-796,Ivo Yousef,17,0,0,0.7,Cigna
+P-797,Zoe Xu,18,0,33,1.3,Delta Dental
+P-798,Kai Walker,19,0,0,0.9,Humana
+P-799,Aroha Nakamura,3,0,118,1.7,Delta Dental
+P-800,Kamala Omondi,13,1,0,1.5,MetLife
+P-801,Leo Hansen,7,0,235,1.1,Delta Dental
+P-802,Elena Zhao,4,1,0,2.0,BlueCross BlueShield
+P-803,Santiago Ferreira,3,0,0,0.6,UnitedHealthcare
+P-804,Dimitri Truong,34,0,852,1.2,BlueCross BlueShield
+P-805,Gemma Gomes,19,1,0,1.2,Aetna
+P-806,Claire Crouch,6,1,0,1.0,MetLife
+P-807,Ayano Wilson,5,0,0,0.4,Delta Dental
+P-808,Tariq Klein,4,0,0,1.1,Humana
+P-809,Soren Qiu,7,1,0,0.4,BlueCross BlueShield
+P-810,Amara Kuroda,10,0,27,2.2,Delta Dental
+P-811,Ravi Xu,7,0,0,1.1,self-pay
+P-812,Naomi Krause,6,0,753,0.8,Aetna
+P-813,Lorenzo Nair,3,0,0,0.7,UnitedHealthcare
+P-814,Zoe Tsai,6,0,121,4.2,BlueCross BlueShield
+P-815,Zainab Rivera,6,1,0,0.9,Delta Dental
+P-816,Miguel Shah,8,1,111,1.2,Cigna
+P-817,Takoda Shen,6,1,0,1.7,Cigna
+P-818,Vikram Sethi,7,4,0,0.7,Delta Dental
+P-819,Quinn Zahra,4,0,450,0.9,self-pay
+P-820,Mariana Park,7,0,363,1.8,UnitedHealthcare
+P-821,Finn Ndungu,11,0,0,1.6,Delta Dental
+P-822,Andrea Taylor,18,0,0,0.7,Delta Dental
+P-823,Sasha Obi,20,0,0,1.6,Delta Dental
+P-824,Yuki Young,13,0,0,1.3,Delta Dental
+P-825,Ines Yusuf,6,0,0,2.8,Delta Dental
+P-826,Arjun Gomes,10,1,0,1.7,Aetna
+P-827,Nikhil Popescu,28,0,0,0.9,MetLife
+P-828,Beatrice O'Connor,4,0,0,1.1,MetLife
+P-829,Nalani Miller,6,0,1273,1.5,Delta Dental
+P-830,Quinn Dumitru,9,0,0,1.5,Guardian
+P-831,Lourdes Thorne,3,1,0,0.3,self-pay
+P-832,Minh Leung,8,1,0,1.4,MetLife
+P-833,Rose Xu,5,1,0,1.0,Aetna
+P-834,Saira Olivera,6,0,0,1.6,BlueCross BlueShield
+P-835,Tomas Kaito,4,1,264,0.9,BlueCross BlueShield
+P-836,Noor Castillo,5,0,0,1.8,BlueCross BlueShield
+P-837,Moira Osei,17,0,161,1.7,Cigna
+P-838,Tamsin Lopez,3,0,0,1.4,Aetna
+P-839,Noor Suzuki,8,0,0,1.0,Cigna
+P-840,Sana Jensen,8,4,53,2.2,MetLife
+P-841,Beatrice Silva,36,1,0,3.8,Delta Dental
+P-842,Claire Zhang,31,1,0,1.6,Aetna
+P-843,Carmen Loh,5,0,0,1.0,Cigna
+P-844,Naomi Kuroda,4,0,0,1.1,Delta Dental
+P-845,Ruben Rodriguez,8,0,0,2.0,BlueCross BlueShield
+P-846,Duc Reddy,5,1,0,3.5,BlueCross BlueShield
+P-847,Xiu Calderon,14,1,0,0.9,UnitedHealthcare
+P-848,Zoe Gallo,4,2,0,3.0,self-pay
+P-849,Idris Novak,4,0,107,3.6,BlueCross BlueShield
+P-850,Vikram Silva,10,2,276,0.7,BlueCross BlueShield
+P-851,Naomi Dumitru,13,0,0,1.0,MetLife
+P-852,Kamila Velasco,14,0,0,1.8,Delta Dental
+P-853,Minh Khan,10,0,0,0.9,UnitedHealthcare
+P-854,Wei Gomez,13,0,1424,1.0,Cigna
+P-855,Zoe Park,9,0,0,0.6,BlueCross BlueShield
+P-856,Simone Lee,3,2,0,1.9,self-pay
+P-857,Felix Meyer,9,0,0,1.3,Humana
+P-858,Emeka Flores,7,0,257,1.6,Cigna
+P-859,Fiona Kang,23,0,0,1.1,MetLife
+P-860,Jade Kanellos,6,1,0,2.6,Aetna
+P-861,Hiro Rizvi,6,0,0,4.4,Aetna
+P-862,Freya Salas,13,0,0,1.2,Humana
+P-863,Paloma Ramirez,36,5,439,0.5,Guardian
+P-864,Joaquin Schmidt,9,5,0,0.5,Aetna
+P-865,Kwame Watanabe,5,1,0,0.6,self-pay
+P-866,Rani Morales,11,0,338,1.9,MetLife
+P-867,Noor Ilunga,6,1,0,3.6,UnitedHealthcare
+P-868,Astrid Kanellos,4,0,0,0.7,Delta Dental
+P-869,Rafael Blanco,7,0,0,1.9,Delta Dental
+P-870,Carmen Kim,20,1,446,1.1,MetLife
+P-871,Stella Afolabi,7,0,1004,1.7,BlueCross BlueShield
+P-872,Anand Mukherjee,13,0,0,2.3,Cigna
+P-873,Andre Dang,6,0,1716,1.5,Delta Dental
+P-874,Theo Vasquez,7,0,435,1.5,Delta Dental
+P-875,Bianca Sakamoto,5,0,1316,1.1,Delta Dental
+P-876,Mira Mukherjee,13,0,0,1.8,Humana
+P-877,Zoe Gonzalez,3,1,0,1.1,Aetna
+P-878,Siena Suzuki,6,1,0,0.7,Delta Dental
+P-879,Lars Wang,13,1,0,0.9,MetLife
+P-880,Jamal Watanabe,6,0,1901,4.1,MetLife
+P-881,Jasper Brennan,3,0,0,0.7,UnitedHealthcare
+P-882,Ibrahim Ramirez,3,1,0,1.6,UnitedHealthcare
+P-883,Mei Bouchard,5,0,412,1.7,Cigna
+P-884,Evan Kovacs,7,0,0,0.3,Aetna
+P-885,Amara Iwu,11,1,406,1.6,Guardian
+P-886,Thalia Rasmussen,13,1,69,0.3,Delta Dental
+P-887,Amelia Kanellos,21,0,0,1.1,BlueCross BlueShield
+P-888,Sadia Kang,6,0,0,1.1,UnitedHealthcare
+P-889,Odin Yao,6,0,0,1.9,Delta Dental
+P-890,Alejandro Eklund,13,0,0,0.8,UnitedHealthcare
+P-891,Jamal Bertrand,6,0,372,4.2,Cigna
+P-892,Ayano Andersen,5,0,0,1.9,Delta Dental
+P-893,Theo Prasad,6,0,0,0.6,Cigna
+P-894,Gemma Phan,36,0,395,2.0,BlueCross BlueShield
+P-895,Yuki Rasmussen,14,3,0,1.0,Guardian
+P-896,Darius Jain,7,0,277,0.5,Delta Dental
+P-897,Amelia Rao,26,1,0,3.3,BlueCross BlueShield
+P-898,Kwame Taylor,4,0,0,0.6,Cigna
+P-899,Arjun Miller,31,0,0,1.2,UnitedHealthcare
+P-900,Claire Espinoza,12,1,1651,0.4,Guardian
