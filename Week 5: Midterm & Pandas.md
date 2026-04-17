@@ -9,10 +9,11 @@ Groner Chapters 11 & 16
 [W09: Pandas]  
 
 Read:  
-Ang Chapter 9  
+Ang Chapter 7  
 
 **Guest Speaker**  
 [Abhishek Dhanraj](https://www.linkedin.com/in/abhishekdhanraj/)    
 
 Read:  
 Groner Chapter 14  
+Ang Chapter 9
