@@ -5,6 +5,7 @@ Chapter idea workshopping with Gary Ang
 
 Read:  
 [Command Line Interface (CLI) guidelines](https://clig.dev/)  
+Groner Chapter 7
 
 **Lists, Tuples, & Strings**  
 [W07: Lists, Tuples, & Strings](https://docs.google.com/document/d/1mKxMZTQ7ynadc5cqnV7-QOFeuHyAx9zNOKKERM6srGk/edit?usp=drive_link)  
