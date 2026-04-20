@@ -12,6 +12,7 @@ Groner Chapter 7
 [Slidedeck: Strings](https://www.dropbox.com/scl/fi/x2ph3hnynx87k4x8yhu5e/W04-Strings.pptx?rlkey=hk5o1kgce7uz4rud4tk2ctvvo&dl=0)  
 [W07: Lists, Tuples, & Strings](https://docs.google.com/document/d/1mKxMZTQ7ynadc5cqnV7-QOFeuHyAx9zNOKKERM6srGk/edit?usp=drive_link)  
 [Practice Exam](https://docs.google.com/document/d/1cPVVWoy3wkEea25C8cKf84Zzgw_fSe3KLmsnbKdj1A4/edit?usp=sharing)  
+
 Read:  
 Groner Chapters 9 & 13  
 Ang Chapter 10
