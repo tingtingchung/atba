@@ -1,7 +1,7 @@
 **Week 3: Functions**  
 [Slidedeck: Functions](https://www.dropbox.com/scl/fi/dbp83has9kkh315ett0v2/M3B-Functions.pptx?rlkey=va9wl9cos8pdkin22p321liqo&dl=0)    
 [Colab: Agentic AI example with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
-[W06: Functions](https://docs.google.com/document/d/1HVH59cLXjb-Ld_M7ut0j-bC6ThjsAoIlMozjCGqCW5s/edit?tab=t.0) [PDF](https://drive.google.com/file/d/15aFaf8n7-hsWJa10urE2OVavSukM1DLj/view?usp=drive_link) [colab](https://colab.research.google.com/drive/1XMR-jsSGv0UUEn-2Out2PAOKaZUm4PWo?usp=sharing) [solution]    
+[W06: Functions](https://docs.google.com/document/d/1HVH59cLXjb-Ld_M7ut0j-bC6ThjsAoIlMozjCGqCW5s/edit?tab=t.0) [PDF](https://drive.google.com/file/d/15aFaf8n7-hsWJa10urE2OVavSukM1DLj/view?usp=drive_link) [colab](https://colab.research.google.com/drive/1XMR-jsSGv0UUEn-2Out2PAOKaZUm4PWo?usp=sharing) [solution](https://docs.google.com/document/d/1wU8X8IsyoTbsxnN0v7cPhgWrNwmpnIC9VXwcpJFvKfM/edit?usp=drive_link)      
 
 Read:  
 Chapter 7, Appendices F & K
