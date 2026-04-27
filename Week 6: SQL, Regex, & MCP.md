@@ -1,4 +1,7 @@
 **Week 6**  
+Files, folders, CLI commands, & Pandas
+[slidedeck](https://tinyurl.com/yk5ncup6)  
+[Worksheet #08](https://docs.google.com/document/d/143m2XC3giduN08WEnjTihqyNLitjY564NecapUDFTpE/edit?tab=t.0) [PDF] [colab](https://drive.google.com/file/d/1wNC9qrCdGKW3UwNz0yUXGBCoCo2V6DVT/view?usp=drive_link) [solution]  
 
 **SQL**  
 [W10: SQL]  
