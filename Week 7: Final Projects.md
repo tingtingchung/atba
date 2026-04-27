@@ -3,6 +3,6 @@
 **Guest Speaker**  
 [Nicola Ibba](https://www.linkedin.com/in/nicolaibba/)  
 
-**Project Peer Reviews**  
+**Text Analysis & Regex**  
 
 **Final Presentations**  
