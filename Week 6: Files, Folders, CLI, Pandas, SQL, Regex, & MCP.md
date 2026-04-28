@@ -4,12 +4,11 @@
 [slidedeck](https://tinyurl.com/yk5ncup6)  
 [Worksheet #08](https://docs.google.com/document/d/143m2XC3giduN08WEnjTihqyNLitjY564NecapUDFTpE/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1wNC9qrCdGKW3UwNz0yUXGBCoCo2V6DVT/view?usp=drive_link) [colab](https://colab.research.google.com/drive/143U0hw-TfiirSxswKvhsnE5eqqVZpZ9n#scrollTo=Y_W5XQuVhHPX) [solution]  
 
-**Python Dictionaries & JSON**  
-[slidedeck: dictionaries]  
-[slidedeck: JSON]  
+**Python Dictionaries & Sets**  
+[slidedeck: dictionaries](https://colab.research.google.com/drive/1mDHYFR-xospgw695_77GjNfSGfpd507K#scrollTo=pIXD3Q2625JQ)    
 [Worksheet #09] [PDF] [colab] [solution]   
 
-**API**  
+**API & JSON**  
 [slidedeck](https://www.dropbox.com/scl/fi/c6lz24x535dwkzxzn5nha/W6-2-API-vs-MCP.pptx?rlkey=j4anu79yrskm6co9pu5dkjw5x&dl=0)  
 [colab](https://colab.research.google.com/drive/1Ydniq8wm-26lD62Vf_NjkB78Y097iBEk?usp=sharing)  
 
