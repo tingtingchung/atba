@@ -1,5 +1,6 @@
 **Week 6**  
-Files, folders, CLI commands, & Pandas
+
+**Files, folders, CLI commands, & Pandas**  
 [slidedeck](https://tinyurl.com/yk5ncup6)  
 [Worksheet #08](https://docs.google.com/document/d/143m2XC3giduN08WEnjTihqyNLitjY564NecapUDFTpE/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1wNC9qrCdGKW3UwNz0yUXGBCoCo2V6DVT/view?usp=drive_link) [colab](https://colab.research.google.com/drive/143U0hw-TfiirSxswKvhsnE5eqqVZpZ9n#scrollTo=Y_W5XQuVhHPX) [solution]  
 
