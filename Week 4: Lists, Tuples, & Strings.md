@@ -1,10 +1,7 @@
 **Week 4**  
 Chapter idea workshopping with Gary Ang  
 
-**Files, Folders, & CLI Bash Commands**  
-
 Read:  
-[Command Line Interface (CLI) guidelines](https://clig.dev/)  
 Groner Chapter 7
 
 **Lists, Tuples, & Strings**  
