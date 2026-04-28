@@ -13,6 +13,3 @@ Groner Chapter 7
 Read:  
 Groner Chapters 9 & 13  
 Ang Chapter 10
-
-**Dictionaries & JSON**  
-[W08: Dictionaries & JSON]  
