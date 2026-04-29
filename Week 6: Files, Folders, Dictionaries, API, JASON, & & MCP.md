@@ -20,7 +20,7 @@ Read:
 **Context Engineering with MCP & SKILL**  
 [slidedeck](https://www.dropbox.com/scl/fi/k6zg0c1ni95d9r1zdxpyr/W6-4-MCP-SKILL.pptx?rlkey=zu1eoo9l09qjyld7s14ct8leq&dl=0)  
 
-**Pandas** 
+**Pandas**  
 [Worksheet #10](https://docs.google.com/document/d/1iMwP6FhXhgXHgyO8e8NxgsOyYaYiD6K0xbv1H52VJmc/edit?tab=t.0) [PDF] [solution]    
 [Pandas colab](https://colab.research.google.com/drive/1G17MVgCWPuu9JBBhLJXZEsgpytVjlw0r)  
 [Pandas for central tendency colab](https://colab.research.google.com/drive/1gHXWc7a6XsEBWYJi_CBvYsQfuQ_0bbv5)  
