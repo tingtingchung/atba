@@ -25,7 +25,7 @@ Read:
 Read:
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
 **pandas**  
-[Worksheet #10](https://docs.google.com/document/d/1iMwP6FhXhgXHgyO8e8NxgsOyYaYiD6K0xbv1H52VJmc/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1HI9wRUeNE0e8zXjV1EWcRrAgH1d0UGEM/view?usp=drive_link) [solution]    
+[Worksheet #10](https://docs.google.com/document/d/1iMwP6FhXhgXHgyO8e8NxgsOyYaYiD6K0xbv1H52VJmc/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1-avRWN3BPZRJ2js5d_cKgpuXMP6JFbqn/view?usp=drive_link) [solution]    
 [pandas colab](https://colab.research.google.com/drive/1G17MVgCWPuu9JBBhLJXZEsgpytVjlw0r)  
 [pandas for central tendency colab](https://colab.research.google.com/drive/1gHXWc7a6XsEBWYJi_CBvYsQfuQ_0bbv5)  
 [pandas for dispersion colab](https://colab.research.google.com/drive/1fWyrSPeOtbFjM6DWgntDAH6z-rArUpCK)  
