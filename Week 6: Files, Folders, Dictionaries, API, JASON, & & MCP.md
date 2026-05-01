@@ -5,7 +5,7 @@
 [Worksheet #08](https://docs.google.com/document/d/143m2XC3giduN08WEnjTihqyNLitjY564NecapUDFTpE/edit?tab=t.0) [PDF](https://drive.google.com/file/d/1wNC9qrCdGKW3UwNz0yUXGBCoCo2V6DVT/view?usp=drive_link) [colab](https://colab.research.google.com/drive/143U0hw-TfiirSxswKvhsnE5eqqVZpZ9n#scrollTo=Y_W5XQuVhHPX) [solution]  
 
 **Python Dictionaries vs JSON**  
-[slidedeck: dictionaries vs JSON](https://colab.research.google.com/drive/1mDHYFR-xospgw695_77GjNfSGfpd507K#scrollTo=pIXD3Q2625JQ)  
+[slidedeck: dictionaries vs JSON](https://www.dropbox.com/scl/fi/5dsfwimnp2b4fttvou79r/W6-2-Dictionaries-vs.-JSON.pptx?rlkey=owihpuswcd9fjr3taokdlgrtk&dl=0)  
 [colab](https://colab.research.google.com/drive/1mDHYFR-xospgw695_77GjNfSGfpd507K#scrollTo=EqWENkQC41Sl)  
 [Worksheet #09](https://docs.google.com/document/d/1H0HRpTa6IrIeTDD0rZnxiPlRsUPoJRrh95x5Wvo08U0/edit?tab=t.0) [PDF](https://drive.google.com/file/d/13jg5VTyLcC0DOmlljYy4DWky63GkK5Pd/view?usp=drive_link) [solution]   
 
