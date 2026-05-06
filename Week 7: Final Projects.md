@@ -19,12 +19,15 @@ Read:
 [colab](https://colab.research.google.com/drive/1U0oH-nq82mwVkvWmEZLym1PioT3JsYch#scrollTo=WztZtWDkwevR)  
 
 **SQL**  
+[SQLite sample database](https://www.sqlitetutorial.net/sqlite-sample-database/)  
 [colab](https://colab.research.google.com/drive/1ccKV0NCxzNYvn50mSGZgtN2dx8wLDIV-)  
 
 Read:  
 Groner Chapter 18  
 [DataCamp Regex Course](https://app.datacamp.com/groups/mba-tools-for-business-analytics/assignments/398348)  
 
-**Text Analysis & Regex**  
+**Regular Expression (RegEx)**  
+[colab](https://colab.research.google.com/github/justinbois/bootcamp/blob/gh-pages/2021/lessons/l35_regular_expressions.ipynb)  
 
 **Final Presentations**  
+[TP2](https://github.com/tingtingchung/atba/issues/2): Each team gives 8 min presentation + 1 min Q&A + 1 min transition
